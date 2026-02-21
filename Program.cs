@@ -11,7 +11,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-// Comentamos esta lï¿½nea porque Render maneja HTTPS automï¿½ticamente
+// Comentamos esta línea porque Render maneja HTTPS automáticamente
 // app.UseHttpsRedirection();
 
 app.UseAuthorization();
