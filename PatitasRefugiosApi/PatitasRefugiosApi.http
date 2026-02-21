@@ -1,6 +1,0 @@
-@PatitasRefugiosApi_HostAddress = http://localhost:5243
-
-GET {{PatitasRefugiosApi_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
